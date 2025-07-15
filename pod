@@ -1,3 +1,0 @@
- i am learning kubernets .
-i lover docker tool .
-this is into devops inside 
